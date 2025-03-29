@@ -22,7 +22,7 @@ I'm an undergraduate student majoring in **Physics** with a minor in **Computer 
 - **Mathematical & Computational Methods**: Numerical Analysis, General Relativity, Quantum Mechanics
 
 ## 🏆 Honors & Awards
-- **International Presidential Scholarship of Excellence** – $180,000 award for academic excellence.
+- **International Presidential Scholarship of Excellence** - award for academic excellence.
 - **York Science Scholars Award (YSSA)** – Competitive research-based scholarship.
 - **Hackathon Winner (Qsite 2024)** – 1st Prize in Haiqu and 3rd overall.
 
