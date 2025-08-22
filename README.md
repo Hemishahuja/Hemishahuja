@@ -11,7 +11,7 @@ prev:
 contact:
   github: hemishahuja
   linkedin: hemishahuja
-  email: hemishahuja@gmail.com
+  email: hahuja@yorku.ca
 ```
 
 ## Fieldwork
