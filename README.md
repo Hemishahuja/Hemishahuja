@@ -4,7 +4,8 @@ role: Undergraduate Researcher
 uni: York University, Canada
 program: Hons. BSc Physics (+ CS minor), 2022–2026
 now:
-  - electron EDM with matrix-isolated BaF (cryo · optics · spin simulations)
+  - electron EDM with matrix-isolated BaF (cryo · UHV · optics · system building · automation)
+prev:
   - quantum error mitigation & calibration workflows
   - black-hole shadow modeling with quantum-gravity–inspired corrections
 contact:
