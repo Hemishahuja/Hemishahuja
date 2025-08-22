@@ -1,33 +1,36 @@
+```yaml
+name: Hemish Ahuja
+role: Undergraduate Researcher
+uni: York University, Canada
+program: Hons. BSc Physics (+ CS minor), 2022–2026
+now:
+  - electron EDM with matrix-isolated BaF (cryo · optics · spin simulations)
+  - quantum error mitigation & calibration workflows
+  - black-hole shadow modeling with quantum-gravity–inspired corrections
+contact:
+  github: hemishahuja
+  linkedin: hemishahuja
+  email: hemishahuja@gmail.com
+```
 
+## Fieldwork
+- **EDM³ Lab, York University (2024–2025)** — Designed cryogenic detection and optical/magnetic alignment pipelines for **eEDM** in matrix-isolated **BaF**; stabilized UHV/cryo conditions to extend spin coherence and polarization fidelity; built custom simulations to refine sensitivity to subtle shifts.
+- **Goethe University — GREP Fellow (2024)** — Simulated **quantum-gravity corrections** to **black-hole shadows**; integrated Event Horizon Telescope datasets to tighten model agreement; presented results internationally.
+- **University of Alberta (2023–2024)** — Theoretical quantum gravity across LQG and string-inspired frameworks; cross-institutional consistency checks and simulation validation.
+- **IBM Quantum (2023)** — Implemented **dynamic decoupling** for error mitigation; ran a **Stern–Gerlach** experiment on real devices with Qiskit; presented outcomes at York’s SURC.
 
-# Hi, I'm Hemish! 👋
+## Community
+Undergraduate Chair, **Canadian Association of Physicists — SAC**; led national programming and an IAPS partnership; service on CAP Medal & UN IYQ task groups; President, **PSYU** (Physics Student Association at York).
 
-## 🚀 About Me
-I'm an undergraduate student majoring in **Physics** with a minor in **Computer Science** at **York University, Canada**. My academic journey revolves around exploring the intersections of **quantum mechanics, particle and experimental physics, computation, and mathematical modelling**.
+## Toolkit
+**Code:** Python, C++, MATLAB, Java · **Libraries:** NumPy, SciPy, Matplotlib, Qiskit · **Tools:** Git, LaTeX, Bash, PostgreSQL  
+**Lab & Methods:** Optics, UHV, cryogenics, numerical modeling, GR/geometry, alignment & calibration
 
-## 🔬 Research Interests
-- **Quantum Information & Computing**: Conducting research on quantum error mitigation, high-precision atomic physics, and black hole simulations.
-- **Computational Physics**: Leveraging programming and numerical methods to solve physics problems.
-- **Optimization & Algorithms**: Passionate about solving scheduling and optimization problems with rigorous proofs and structured approaches.
+## Recognition
+**International Presidential Scholarship of Excellence** (full support) · **York Science Scholars Award (YSSA)**  
+Hackathons: Haiqu (1st, circuit packing & optimization) · FLIQ Quantum ML (1st) · Qsite (3rd overall)
 
-## 📂 Research & Experience
-- **EDMcubed Lab, York University (2024-2025)** – Researching electron spin-dynamical properties for precision eEDM measurement.
-- **Goethe University, Germany (2024)** – Researching Quantum Gravity and Black Hole Shadows as a GREP fellow.
-- **University of Alberta (2023-2024)** – Theoretical research on Quantum Gravity and Black Holes.
-- **IBM Quantum Research (2023)** – Error mitigation in quantum computers using dynamic decoupling.
-
-## 🛠️ Skills
-- **Programming Languages**: Python, C++, MATLAB
-- **Libraries & Tools**: NumPy, SciPy, Matplotlib, Qiskit
-- **Mathematical & Computational Methods**: Numerical Analysis, General Relativity, Quantum Mechanics
-
-## 🏆 Honors & Awards
-- **International Presidential Scholarship of Excellence** - award for academic excellence.
-- **York Science Scholars Award (YSSA)** – Competitive research-based scholarship.
-- **Hackathon Winner (Qsite 2024)** – 1st Prize in Haiqu and 3rd overall.
-
-## 📫 Let's Connect
-- **GitHub**: [Your GitHub Profile](https://github.com/hemishahuja)
-- **LinkedIn**: [Your LinkedIn](https://linkedin.com/in/hemishahuja)
-- **Email**: Hemishahuja@gmail.com
-`
+## Links
+- GitHub: https://github.com/hemishahuja  
+- LinkedIn: https://linkedin.com/in/hemishahuja  
+- Email: mailto:hemishahuja@gmail.com
